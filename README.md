@@ -4,10 +4,15 @@
 Data:
  10k_view_data.csv contains data about ‘viewing events’ - tuning a TV to a station:
 • mso_code – unique 5-digit ID number for each MSO 
+
  • device_id – unique ID number for each device or set-top-box 
+ 
 • event_date– date the viewing event occurred in the format “YYYYMMDD” 
+
 • event_time – time the viewing event occurred in the format “HHMMSS” 
+
 • station_num – ID of each TV station
+
  • prog_code – ID of each program broadcasted in each event
 
 For both exercises below, we defined "Prime – Time" as the time between 20:00 and 23:00.
