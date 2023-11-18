@@ -1,6 +1,7 @@
 # Distributed-Data-Management
 
 The following project was created by Adi Hatav and Tamar Dufour Dror, as part of the "Distributed Data Management" course at the Technion. 
+
 Since we dealt with very large datasets of a cable - company, we utilized a virtual machine (Azure Databricks) and PySpark. Sample datasets can be found in the attached zip file.
 
 The project consists of two main parts:
